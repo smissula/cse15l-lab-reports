@@ -3,6 +3,8 @@ This is my lab report after week 8 of CSE 15L. As part of the week 7 lab, we had
 
 We will be comparing the performance of the `MarkdownParse.java` file on 3 provided snippets of markdown code. First, let us consider the expected output from each of them.
 
+(PS. Return to the Github page for my repository [here](https://github.com/smissula/cse15l-lab-reports), and find the index page for this repo [here](https://smissula.github.io/cse15l-lab-reports/index.html).)
+
 ## Expected result from snippets
 All of the following snippets have been provided by the CSE 15L Github page, and are going to be tested as is against the two markdown parsers specified above. Note that I have used the VSCode markdown preview to identify which links have been successfully rendered as hyperlinks on commonmark to determine what the expected output of each snippet should be.
 
