@@ -1,5 +1,5 @@
 # Week 8 Lab Report
-This is my lab report after week 8 of CSE 15L. As part of the week 7 lab, we had to review the MarkdownParse repository of the member of another group. As part of this lab report, we will be comparing [my repository](https://github.com/ajwboi/markdown-parse) to [their's](https://github.com/ajwboi/markdown-parse).
+This is my lab report after week 8 of CSE 15L. As part of the week 7 lab, we had to review the MarkdownParse repository of the member of another group. As part of this lab report, we will be comparing [my repository](https://github.com/smissula/markdown-parse) to [their's](https://github.com/ajwboi/markdown-parse).
 
 We will be comparing the performance of the `MarkdownParse.java` file on 3 provided snippets of markdown code. First, let us consider the expected output from each of them.
 
