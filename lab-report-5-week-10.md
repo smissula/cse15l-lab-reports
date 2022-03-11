@@ -160,7 +160,7 @@ My implementation doesn't identify any link, but the provided implementation ide
 
 We will be looking into both of these differences in depth before making a final judgment on which one (if either) is correct, and what we can do to fix the incorrect one(s).
 
-## Difference \#1: `481.md`
+## Difference 1: `481.md`
 Just to revise, the `diff` operation above, stated the following:
 ```
 850c850
@@ -207,7 +207,7 @@ To sum it up, there should be an additional `if` statement inside of the first o
 I can't help but feel a similar change should be made to my implementation too, since links with spaces that do not have hover text are not rendered as links in Markdown (see below). In that regard, the same modified `if-else` statement that I proposed for the provided implementation should go in my implementation as well.
 ![](img/Difference1_commonmarkCase.png)
 
-## Difference \#2: `577.md`
+## Difference 2: `577.md`
 The second difference we will be addressing has to do with the following result from `diff`:
 ```
 1062c1062
